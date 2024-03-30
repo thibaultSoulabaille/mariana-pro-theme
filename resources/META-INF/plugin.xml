@@ -1,7 +1,7 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
-    <id>mariana-pro-theme</id>
+    <id>com.github.thibaultsoulabaille.marianatheme</id>
     <version>2.0.0</version>
 
     <!-- Public plugin name should be written in Title Case.
@@ -17,16 +17,14 @@
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
-    <description><![CDATA[
-    Unofficial Mariana Pro Theme, based on Sublime Text's Mariana Syntax and Adaptive UI, adapted by Thibault Soulabaille.
-
-    Suppported by all JetBrains apps.
-  ]]></description>
+    <description>
+    &lt;p&gt;A complete color theme for IntelliJ IDE based on Sublime Text's Mariana Syntax and Adaptive UI.&lt;/p&gt;
+    </description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-    Initial release of the theme.
+   Clean theme code.
   ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
