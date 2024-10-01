@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.github.thibaultsoulabaille.marianatheme</id>
-    <version>24.2.0</version>
+    <version>24.3.0</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -12,7 +12,7 @@
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor email="thibault.soulabaille@gmail.com" url="https://github.com/thibaultSoulabaille">Thibault Soulabaille</vendor>
 
-    <idea-version since-build="231" until-build="242.*"/>
+    <idea-version since-build="231" until-build="243.*"/>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
